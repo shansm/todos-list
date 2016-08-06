@@ -2,7 +2,7 @@
 
 #Todos List
 
-This NPM module contains an array list of todos. It's especially useful when you're starting to learn a new framework and need some fake dummy data. 
+This [NPM module](https://www.npmjs.com/package/todos-list) contains an array list of todos. It's especially useful when you're starting to learn a new framework and need some fake dummy data. 
 
 It can be used with [json-server](https://github.com/typicode/json-server) like so:
 
