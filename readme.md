@@ -1,5 +1,3 @@
-[![npm version](https://badge.fury.io/js/todos-list.svg)](https://badge.fury.io/js/todos-list)
-
 #Todos List
 
 This [NPM module](https://www.npmjs.com/package/todos-list) contains an array list of todos. It's especially useful when you're starting to learn a new framework and need some fake dummy data. 
