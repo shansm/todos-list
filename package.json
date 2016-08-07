@@ -1,11 +1,13 @@
 {
   "name": "todos-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This NPM module contains an array list of todos. It can be used with json-server(https://github.com/typicode/json-server)",
   "keywords": "todos, to-do, json-server, list of todos",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js --coverage-report=html"
+    "test": "tap test/*.js --coverage-report=html",
+    "lint": "eslint \"./**/*.js\"",
+    "posttest": "npm run lint"
   },
   "author": "Shan M.",
   "license": "MIT",

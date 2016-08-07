@@ -1,6 +1,6 @@
 const tap = require("tap")
 const data = require("../index")
-const matches = require('tmatch')
+const matches = require("tmatch")
 
 tap.test("data structure of todos", function(t) {
   t.ok(Array.isArray(data.todos), "it should be an array")
