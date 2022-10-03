@@ -6,7 +6,7 @@ It can be used with [json-server](https://github.com/typicode/json-server) like 
 
 ```js
 const todoslist = require('todos-list');
-//instead of specifying a file to the router method, you pass in the todos-list module
+// instead of specifying a file to the router method, you pass in the todos-list module
 const router = jsonServer.router(todoslist);
 ```
 
