@@ -1,4 +1,4 @@
-#Todos List
+# Todos List
 
 This [NPM module](https://www.npmjs.com/package/todos-list) contains an array list of todos. It's especially useful when you're starting to learn a new framework and need some fake dummy data. 
 
@@ -10,7 +10,7 @@ const todoslist = require('todos-list');
 const router = jsonServer.router(todoslist);
 ```
 
-##Install
+## Install
 ```bash
 $ npm i todos-list --save
 ```
